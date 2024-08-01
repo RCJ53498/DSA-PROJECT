@@ -1,4 +1,4 @@
-# DSA-PROJECT
+# TRAIN ALLOCATION SYSTEM USING DIJKSTRA
 A Train Allocation System is a software application designed to manage and optimize the assignment of trains to various routes based on specific criteria such as train capacity, route demand, and scheduling constraints. This system is crucial for railway operations, ensuring efficient utilization of resources, minimizing delays, and providing reliable service to passengers.
 
 The system typically involves several key components:
